@@ -157,7 +157,7 @@
 
             bindings = <
 &none   &kp LG(MINUS)     &kp LG(X)     &kp LG(C)       &kp LG(V)     &kp LG(PLUS)   &trans  &trans  &trans         &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_MUTE  &kp C_PLAY  &trans
-&trans  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_GUI  &screenshot    &trans  &trans  &kp LG(TAB)    &kp LEFT           &kp DOWN         &kp UP      &kp RIGHT   &trans
+&none   &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_GUI  &screenshot    &trans  &trans  &kp LG(TAB)    &kp LEFT           &kp DOWN         &kp UP      &kp RIGHT   &trans
 &trans  &kp LG(Z)         &trans        &kp CAPSLOCK    &trans        &kp LG(LS(Z))                  &kp LG(TILDE)  &kp LS(LG(N8))     &kp LS(LG(N9))   &trans      &trans      &trans
                                         &trans          &trans        &kp SPACE                      &kp ESCAPE     &kp DELETE         &trans
             >;
